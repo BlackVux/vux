@@ -1,0 +1,46 @@
+/* styles.css */
+
+/* Style the body tag */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Style the header tag */
+header {
+  background-color: lightblue;
+}
+
+/* Style the nav tag */
+nav {
+  background-color: lightgreen;
+}
+
+/* Style the main tag */
+main {
+  background-color: lightyellow;
+  font-size: 18px;
+}
+
+/* Style the footer tag */
+footer {
+  background-color: lightgray;
+}
+
+/* Style the li tag */
+li {
+  display: inline-block;
+  width: auto;
+}
+
+/* Style the h1 tag */
+h1 {
+  text-align: center;
+  font-family: "Times New Roman", serif;
+  color: darkblue;
+}
+
+/* Style the p tag */
+p {
+  line-height: 1.5;
+}
