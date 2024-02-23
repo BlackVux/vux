@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random HTML Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Random HTML Page</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </nav>
+    <main>
+        <h2>Random Content</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex nec augue convallis tristique ac nec est. Ut vehicula odio a libero interdum suscipit. Proin quis turpis libero.</p>
+        <p>Integer id magna id magna suscipit gravida. Pellentesque sit amet lectus vitae lectus ullamcorper bibendum ac in dui. Curabitur bibendum tortor id ipsum suscipit, ut accumsan ex pharetra.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Random HTML Page. All rights reserved.</p>
+    </footer>
+</body>
+</html>
